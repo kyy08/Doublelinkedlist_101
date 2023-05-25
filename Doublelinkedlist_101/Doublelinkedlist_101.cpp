@@ -190,7 +190,12 @@ int main() {
 				break;
 			case '2':
 				obj.hapus();
-				break
+				break;
+			case '3':
+				obj.traverse();
+				break;
+
+
 
 			}
 		}
